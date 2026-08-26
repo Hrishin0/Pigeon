@@ -2,5 +2,5 @@
 id_*
 !id_*.pub
 
-#*.tar.gz
+*.tar.gz
 
