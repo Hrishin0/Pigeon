@@ -1,0 +1,6 @@
+# SSH
+id_*
+!id_*.pub
+
+*.tar.gz
+
